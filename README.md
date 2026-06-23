@@ -1,6 +1,6 @@
 # healthcare-leads-flow-dashboard
 
-                                     ## Project Overview ##
+## Project Overview 
 
 This project is an interactive healthcare analytics dashboard developed using Power BI to analyze hospital lead flow, patient trends, billing analysis, diagnosis patterns, and doctor feedback performance.
 
